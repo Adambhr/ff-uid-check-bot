@@ -1,4 +1,4 @@
-name: render.yaml
+name: environment.yml
 
 on: [push]
 
